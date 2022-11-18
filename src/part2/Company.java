@@ -1,6 +1,8 @@
-package part2.company;
+package part2;
 
-public abstract class Company {
+import java.util.Arrays;
+
+public class Company {
 
     private String name;
     private Employee[] employees = new Employee[10];

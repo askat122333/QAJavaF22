@@ -1,4 +1,4 @@
-package part2.company;
+package part2;
 
 public class Employee {
     private String name;
@@ -43,3 +43,5 @@ public class Employee {
                 '}';
     }
 }
+
+
